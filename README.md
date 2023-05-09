@@ -1,26 +1,4 @@
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
-
 
 <!-- TABLE OF CONTENTS -->
 
@@ -191,7 +169,10 @@ Example:
 - Twitter: [@Danmatama](https://twitter.com/Danmatama)
 - LinkedIn: [@DanielMatama](https://www.linkedin.com/in/DanielMatamaMwebesa/)
 
+👤 **Ismail Munyentwari**
 
+- GitHub: [ismailmunyentwari9](https://github.com/ismailmunyentwari9)
+- LinkedIn: [@DanielMatama](https://www.linkedin.com/in/munyentwari-ismail-754718191/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
